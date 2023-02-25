@@ -292,5 +292,5 @@ This document has no IANA actions.
 # Acknowledgments
 {:numbered="false"}
 
-This work has been partially funded by the European Union under Horizon Europe projects NEMO (NExt generation Meta Operating system) grant number 
+This work has been partially funded by the European Union under the Horizon Europe projects NEMO (NExt generation Meta Operating system) grant number 
 101070118, and CODECO (COgnitive, Decentralised Edge-Cloud Orchestration), grant number 101092696.
